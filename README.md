@@ -96,9 +96,37 @@ Axon
 -Transmit electrical impulses to terminals ( speed determined by size, myelin coating)
 - Sends outputs to 100+ other neurones
 
+
+
+
 #### Glia
 type of Glia
 - Astrocytes
 - Microglia - multiply at inju
 - Oligodendrocytes - make myelin in the CNS
 - Schwann cells - make myelin in the PNS
+
+________________________________
+## how neurone communicate?
+### Action potential
+Cell membrane is a lipid bilayer with two layer of lipid molecule
+
+channels exist within the lipid bilayer, these ion channels are little protein holes that connect the extracellular space to the intercellular space. they span the membrane and allow particular ions to pass and depending to the kind of ions channel it allow the little ions to pass
+
+there is ion channel that are just open all the time.
+And there are specialized ion channels called gated ion channel :
+- open channel open all the time and allwow only potassium ions (K+) to cros
+
+- volatage gated ion channel only open if the voltage goes to a particular level.
+
+- chemically gated ion channels only open if there is a particular chemical.
+
+- mechanically gated ion channels open with physical force.
+
+
+The neuron shows selective permeability to (potassium k+) it can enter or leave the cell freely.
+The two opposing forces that drive ion movement :
+
+- Diffusion cause ions to flow from areas of high to low concentration, along their concentration gradient.
+
+- Electrostatic pressure cause ions to flow towards oppositely charged areas.
