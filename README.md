@@ -19,12 +19,13 @@ It **mediates** all **sensory** input and **motor** output.
 ### 1.1 The brain
 
 ### 1.2 Spinal cord
+
 ## 1. What does the PNS is made of and What does it do?
 The **Peripheral nervous system** is made of the Cranial nerves, Spinal nerves, and Autonomic nervous system.
 
 It carries the **sensory information into the CNS** and the **motor information out of the CNS**.
 
-#### 1.1.1 The 12 pairs of cranial nerves
+#### 1.1.1 Cranial nerves
 ![Central nervous system vs Peripheral nervous system](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/cranial_nerves.PNG)
 
 Listed from the most anterior to the most posterior.
@@ -78,10 +79,11 @@ The **Parasympathetic** and the **Sympathetic** nervous system.
 ![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Parasympathetic-vs-sympathetic.PNG)
 
 #### Parasympathetic (**PSNS**)
+It is the **Rest and Digest mode**
 ![Parasympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Parasympathetic.PNG)
 
 #### Sympathetic (**SNS**)
-Don't juge this part of the nervous system by it's name ! it is a ver
+It is the **Fight or Flight mode**.
 
 ![Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Sympathetic.PNG)
 
