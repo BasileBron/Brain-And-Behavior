@@ -69,18 +69,22 @@ plexus =  bundle/hub
 
 
 
-### Autonomic nervous system
+### Autonomic nervous system (**ANS**)
 The Autonomic Nervous system control your organs Unconsciously. It control your body temperature, the blood flow, the heartbeat and so on.
 
 The ANS is made of two component :
 The **Parasympathetic** and the **Sympathetic** nervous system.
 
-![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/img/Parasympathetic-vs-sympathetic.PNG)
+![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Parasympathetic-vs-sympathetic.PNG)
 
-#Parasympathetic
-The cool kid
-#Sympathetic
-The hyperactive kid
+#### Parasympathetic (**PSNS**)
+![Parasympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Parasympathetic.PNG)
+
+#### Sympathetic (**SNS**)
+Don't juge this part of the nervous system by it's name ! it is a ver
+
+![Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Sympathetic.PNG)
+
 ________________________________
 #### Neurones
 ![neuron parts](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Neuron.jpg)
@@ -128,3 +132,5 @@ The two opposing forces that drive ion movement :
 - Diffusion cause ions to flow from areas of high to low concentration, along their concentration gradient.
 
 - Electrostatic pressure cause ions to flow towards oppositely charged areas.
+
+What is making the action potential
