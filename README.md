@@ -74,7 +74,9 @@ The Autonomic Nervous system control your organs Unconsciously. It control your 
 
 The ANS is made of two component :
 The **Parasympathetic** and the **Sympathetic** nervous system.
-![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/img\Parasympathetic-vs-sympathetic.PNG)
+
+![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/img/Parasympathetic-vs-sympathetic.PNG)
+
 #Parasympathetic
 The cool kid
 #Sympathetic
