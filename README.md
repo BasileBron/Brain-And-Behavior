@@ -74,55 +74,51 @@ The Autonomic Nervous system control your organs Unconsciously. It control your 
 
 The ANS is made of two component :
 The **Parasympathetic** and the **Sympathetic** nervous system.
-
+![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/img\Parasympathetic-vs-sympathetic.PNG)
 #Parasympathetic
-the cool kid
+The cool kid
 #Sympathetic
-the hyperactive kid
-
-
-
-
-
+The hyperactive kid
+________________________________
 #### Neurones
+![neuron parts](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Neuron.jpg)
+
 Dendrites
-- input zone
+- Input zone
 - Receive input from 100+ other neurones
-- Many per cell
+- Many per cell/neuron
 Axon
 - Carries output from cell
 - Usually 1 per cell
 - Transport chemicals from cell body to terminals
--Transmit electrical impulses to terminals ( speed determined by size, myelin coating)
+- Transmit electrical impulses to terminals (speed determined by size, myelin coating)
 - Sends outputs to 100+ other neurones
-
-
-
+[Myelin](https://en.wikipedia.org/wiki/Myelin)
+- insulates nerve cell axons to increase the speed at which information (encoded as an electrical signal) travels from one nerve cell body to another.
 
 #### Glia
 type of Glia
 - Astrocytes
 - Microglia - multiply at inju
 - Oligodendrocytes - make myelin in the CNS
-- Schwann cells - make myelin in the PNS
+- Schwann cells - make [Myelin](https://en.wikipedia.org/wiki/Myelin) in the PNS
 
-________________________________
-## how neurone communicate?
+## How neurones communicate?
+
 ### Action potential
-Cell membrane is a lipid bilayer with two layer of lipid molecule
+The membrane of the axon is a **lipid bilayer** (two layer of lipid molecule).
 
-channels exist within the lipid bilayer, these ion channels are little protein holes that connect the extracellular space to the intercellular space. they span the membrane and allow particular ions to pass and depending to the kind of ions channel it allow the little ions to pass
+Channels exist within the lipid bilayer, these ion channels are little protein holes that **connect the extracellular space to the intracellular space**. they span the membrane and allow particular ions to pass and depending to the kind of ions channel it allow the little ions to pass.
 
-there is ion channel that are just open all the time.
+There is ion channel that are just open all the time.
 And there are specialized ion channels called gated ion channel :
-- open channel open all the time and allwow only potassium ions (K+) to cros
+- **Open channel** open all the time and allow only potassium ions (K+) to cross
 
-- volatage gated ion channel only open if the voltage goes to a particular level.
+- **Voltage gated ion channel** only open if the voltage goes to a particular level.
 
-- chemically gated ion channels only open if there is a particular chemical.
+- **Chemically gated ion channels** only open if there is a particular chemical.
 
-- mechanically gated ion channels open with physical force.
-
+- **Mechanically gated ion channels** open with physical force.
 
 The neuron shows selective permeability to (potassium k+) it can enter or leave the cell freely.
 The two opposing forces that drive ion movement :
