@@ -4,6 +4,10 @@
 This repository was made when I studied this [course](https://www.youtube.com/watch?v=gkrM1gMpqRU&list=PLtXCbh6IFA7QCsei-t8WesusKi8I2LXUJ) taught by the professor [Wendy Suzuki](https://www.wendysuzuki.com) a Professor of Neural Science and Psychology in the Center for Neural Science at New York University.
 
 Her major research interest continues to be brain plasticity. She is best known for her extensive work studying areas in the brain critical for our ability to form and retain new long-term memories. More recently her work has focused on understanding how aerobic exercise can be used to improve learning, memory and higher cognitive abilities in humans.
+
+**Flashcard** :
+[Here](https://ankiweb.net/shared/info/281778891) is my deck of Flashcard for this repository.
+If you don't know what flashcard is i **HIGLY recommand** you to learn on the subject.There are a **CRUCIAL** tool to learn and retain memory efficiently.
 _______________________
 ## What are the major component of the nervous system?
 Central nervous system **(CNS)** | Peripheral nervous system **(PNS)**
@@ -17,15 +21,52 @@ The **Central Nervous System** is made of the **Brain** and the **Spinal cord**.
 It **mediates** all **sensory** input and **motor** output.
 
 ### 1.1 The brain
+The brain can be separated in different part. First of all the brain is separated in two distinct hemisphere. These two have the same part called lobes.
+
+#### 1.1.1 Hemisphere
+| Left hemisphere            | Right hemisphere       |
+|:-------------------------- |:---------------------- |
+| Analytical though          | Intutive Thought       |
+| Detail Oriented Perception | Holistic Perception    |
+| Ordered Sequencing         | Random Sequencing      |
+| Rational thought           | Emotional Thought      |
+| Verbal                     | Non-verbal             |
+| Cautious                   | Adventurous            |
+| planning                   | Impulse                |
+| Math/Science               | Creative Writing/Art   |
+| Logic                      | Imagination            |
+| Right field vision         | Left Field Vision      |
+| Right side motor skills    | Left Side Motor Skills |
+
+![Hemisphere](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/BrainHemispheres.jpg)
+
+#### 1.1.2 Lobes
+| Frontal lobe    | Temporal lobe | Occipital lobe | Parietal lobe |
+|:--------------- |:------------- | -------------- | ------------- | ------------ |
+|Controls executive functions like concentration, thinking, problem solving and judgment; motivation, emotions, Behavior| Controls processing feelings of pain and hunger, fight-or-flight stress response, short-term memory, emotion, understanding words and directions | Controls sight and processing information from the eyes, such as recognizing images | Controls feeling on the opposite side of the body, ability to understand spoken language, and processing sensory information such as texture, temperature, and position in space | 
+
+![Lobes](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Brain-lobes-traditional-QBI-sm.jpg)
+![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/LobesCaptsMedial2.png)
+
+#### 1.1.3 Subpart
+| part          | description |
+|:------------- |:----------- |
+| Cerebelum     |             |
+| Broca area    |             |
+| wernicke area |             |
+| hypothalamus  |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/The-Hypothalamus.png)             |
+|Thalamus       |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/The-Thalamus.png)             |
+| hippocampus   |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Hippocampus_Life-Science-Databases_0.jpg)            |
 
 ### 1.2 Spinal cord
+/!\not finished/!\
 
-## 1. What does the PNS is made of and What does it do?
+## 2. What does the PNS is made of and What does it do?
 The **Peripheral nervous system** is made of the Cranial nerves, Spinal nerves, and Autonomic nervous system.
 
 It carries the **sensory information into the CNS** and the **motor information out of the CNS**.
 
-#### 1.1.1 Cranial nerves
+#### 2.1.1 Cranial nerves
 ![Central nervous system vs Peripheral nervous system](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/cranial_nerves.PNG)
 
 Listed from the most anterior to the most posterior.
@@ -102,10 +143,10 @@ Axon
 - Transmit electrical impulses to terminals (speed determined by size, myelin coating)
 - Sends outputs to 100+ other neurones
 [Myelin](https://en.wikipedia.org/wiki/Myelin)
-- insulates nerve cell axons to increase the speed at which information (encoded as an electrical signal) travels from one nerve cell body to another.
+- Insulates nerve cell axons to increase the speed at which information (encoded as an electrical signal) travels from one nerve cell body to another.
 
 #### Glia
-type of Glia
+Type of Glia
 - Astrocytes
 - Microglia - multiply at inju
 - Oligodendrocytes - make myelin in the CNS
@@ -136,3 +177,51 @@ The two opposing forces that drive ion movement :
 - Electrostatic pressure cause ions to flow towards oppositely charged areas.
 
 What is making the action potential
+
+## Neurotransmitter
+### Family and subfamily
+| Family And subfamily | Header Two |
+|:-------------------- |:---------- |
+| Amines               |            |
+| Amino Acids          |            |
+| Neuropeptides        |            |
+| Neuropeptides        |            |
+| gases                |            |
+
+## Drugs
+A drug is any substance (other than food that provides nutritional support) that, when inhaled, injected, smoked, consumed, absorbed via a patch on the skin, or dissolved under the tongue causes a physiological (and often psychological) change in the body.
+
+It is important to know that we don't know the exact effect of drugs on the brain.
+i.g we are aware of the main and obvious effect of Marijuana and cocain for example, but these drugs are doing a lot of things that we are not precisely aware yet.
+
+### Alcohol
+
+#### Child with alcohol syndrome
+
+### Marijuana
+
+### Cocaine
+
+## Hormones
+**Hormones** are chemicals secreted by one cell group, that travel through the bloodstream to act on targets.
+
+What do hormones do exactly ?
+They exert effect on cells and tissues in the body by promoting proliferation growth and differentiation of cells they also modulate cell activity.
+
+**Protein hormone** or peptide hormone-a string of amino acids.
+**Amine hormones**-modified amino acids, called monoamine hormones.
+Protein and Amine hormone act "rapidly" (hormone are slow but they are the fastest)
+**Steroid hormones**-four rings of carbon atoms.
+
+How are hormones a regulated?
+| Target cell feedback | negative feedback | brain regulation |
+|:-------------------- |:----------------- | ---------------- |
+| Item One             | Item Two          |                  |
+
+
+
+
+
+
+## Endocrine glands
+**Endocrine glands** release hormones within the body.
