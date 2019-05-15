@@ -43,7 +43,7 @@ The brain can be separated in different part. First of all the brain is separate
 #### 1.1.2 Lobes
 | Frontal lobe    | Temporal lobe | Occipital lobe | Parietal lobe |
 |:--------------- |:------------- | -------------- | ------------- | ------------ |
-|Controls executive functions like concentration, thinking, problem solving and judgment; motivation, emotions, Behavior| Controls processing feelings of pain and hunger, fight-or-flight stress response, short-term memory, emotion, understanding words and directions | Controls sight and processing information from the eyes, such as recognizing images | Controls feeling on the opposite side of the body, ability to understand spoken language, and processing sensory information such as texture, temperature, and position in space | 
+|Controls executive functions like concentration, thinking, problem solving and judgment; motivation, emotions, Behavior| Controls processing feelings of pain and hunger, fight-or-flight stress response, short-term memory, emotion, understanding words and directions | Controls sight and processing information from the eyes, such as recognizing images | Controls feeling on the opposite side of the body, ability to understand spoken language, and processing sensory information such as texture, temperature, and position in space |
 
 ![Lobes](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Brain-lobes-traditional-QBI-sm.jpg)
 ![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/LobesCaptsMedial2.png)
@@ -57,6 +57,14 @@ The brain can be separated in different part. First of all the brain is separate
 | hypothalamus  |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/The-Hypothalamus.png)             |
 |Thalamus       |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/The-Thalamus.png)             |
 | hippocampus   |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Hippocampus_Life-Science-Databases_0.jpg)            |
+| Amygdala |
+| Sensory strip | |
+| Motor strip   |
+| Corpus callosum |
+|Brain stem /medulla |
+|Pons |
+
+
 
 ### 1.2 Spinal cord
 /!\not finished/!\
