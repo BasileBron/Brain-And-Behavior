@@ -51,11 +51,11 @@ The brain can be separated in different part. First of all the brain is separate
 #### 1.1.3 Subpart
 | part          | description |
 |:------------- |:----------- |
-| Cerebelum     |             |
-| Broca area    |             |
-| wernicke area |             |
-| hypothalamus  |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/The-Hypothalamus.png)             |
-|Thalamus       |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/The-Thalamus.png)             |
+| Cerebelum     | ![cerebellum](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Cerebellum_animation_small.gif) plays an important role in motor control. It may also be involved in some cognitive functions such as attention and language as well as in regulating fear and pleasure responses, but its movement-related functions are the most solidly established. The human cerebellum does not initiate movement, but contributes to coordination, precision, and accurate timing: it receives input from sensory systems of the spinal cord and from other parts of the brain, and integrates these inputs to fine-tune motor activity. Cerebellar damage produces disorders in fine movement, equilibrium, posture, and motor learning in humans. |
+| Broca area    | ![Broca area](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Brocas_area_-_lateral_view.png) Language processing/Speech production        |
+| Wernicke area | ![Wernicke area](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/220px-Wernicke_area_animation.gif)  It is involved in the comprehension of written and spoken language |
+| hypothalamus  |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/250px-Hypothalamus.gif)             |
+|Thalamus       |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Thalamus_small.gif)             |
 | hippocampus   |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Hippocampus_Life-Science-Databases_0.jpg)            |
 | Amygdala |
 | Sensory strip | |
@@ -63,7 +63,7 @@ The brain can be separated in different part. First of all the brain is separate
 | Corpus callosum |
 |Brain stem /medulla |
 |Pons |
-
+| Pituitary |
 
 
 ### 1.2 Spinal cord
