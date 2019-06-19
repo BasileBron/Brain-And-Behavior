@@ -210,7 +210,9 @@ i.g we are aware of the main and obvious effect of Marijuana and cocain for exam
 
 ### Cocaine
 
-## Hormones
+## Endocrine System
+
+### Hormones
 **Hormones** are chemicals secreted by one cell group, that travel through the bloodstream to act on targets.
 
 What do hormones do exactly ?
@@ -222,6 +224,7 @@ Protein and Amine hormone act "rapidly" (hormone are slow but they are the faste
 **Steroid hormones**-four rings of carbon atoms.
 
 How are hormones a regulated?
+
 | Target cell feedback | negative feedback | brain regulation |
 |:-------------------- |:----------------- | ---------------- |
 | Item One             | Item Two          |                  |
@@ -231,5 +234,44 @@ How are hormones a regulated?
 
 
 
-## Endocrine glands
+### Endocrine glands
 **Endocrine glands** release hormones within the body.
+
+### Pituitary gland
+The **Pituitary** also called the Master gland, because it **secretes** many **extremely important hormones** and **regulates** the activity of other hormone secreting **glands**.
+
+![pituitary gland](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/pituitary-gland.jpg)
+
+The Pituitary gland is located under the hypothalamus which is logical because the hypothalamus is the "hub" between the sympathetic system and the Endocrine system.
+
+The anterior and posterior pituitary are responsible for the secretion of the following hormones:
+
+| anterior                      | posterior   |
+|:----------------------------- |:----------- |
+| **Growth Hormone**                | **Oxytocin** (compassion, social bonding, facilitate childbirth and lactation)   |
+| **(FSH) Follicle-stimulating hormones** (development and reproduction) | **Vasopressin** (regulate blood pressure and control urine output)|
+| **(LH) Luteinizing hormone** (testosterone production and reproduction)          |             |
+| **(ACTH) Adrenocorticotropic Hormone** (stress and fear responses)   |             |
+| **(TSH) Thyroid-stimulating hormone** (important to healthy metabolism)  |             |
+| **Prolactin**  (milk production)                   |             |
+
+## Evolution
+
+ Darwin's hypothesis:
+ 1. reproduction will increase a population rapidly unless factors limit it.
+ 2. Individual of a species are note identical.
+ 3. Some variation is inherited.
+ 4. Not all offspring survive to reproduce.
+
+What are the major similarities between human and rats?
+1. Developement from neural tube
+2. Bilateral symmetry
+3. Segmentation
+4. Hierarchical control
+5. Seperate systems
+6. Localization
+
+## Encephalization factor
+Encephalization quotient
+
+![](img/README-5c916320.png)
