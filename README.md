@@ -264,14 +264,14 @@ The anterior and posterior pituitary are responsible for the secretion of the fo
  4. Not all offspring survive to reproduce.
 
 What are the major similarities between human and rats?
-1. Developement from neural tube
+1. Development from neural tube
 2. Bilateral symmetry
 3. Segmentation
 4. Hierarchical control
-5. Seperate systems
+5. Separate systems
 6. Localization
 
 ## Encephalization factor
 Encephalization quotient
 
-![](img/README-5c916320.png)
+![Encephalization](img/README-5c916320.png)
