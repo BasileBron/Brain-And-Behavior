@@ -1,5 +1,5 @@
 # Neuroscience-And-Behavior
-![Neuroscience And Behavior](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/banner_github.jpg)
+![Neuroscience And Behavior](img/banner_github.jpg)
 
 This repository was made when I studied this [course](https://www.youtube.com/watch?v=gkrM1gMpqRU&list=PLtXCbh6IFA7QCsei-t8WesusKi8I2LXUJ) taught by the professor [Wendy Suzuki](https://www.wendysuzuki.com) a Professor of Neural Science and Psychology in the Center for Neural Science at New York University.
 
@@ -12,7 +12,7 @@ _______________________
 ## What are the major component of the nervous system?
 Central nervous system **(CNS)** | Peripheral nervous system **(PNS)**
 
- ![Central nervous system vs Peripheral nervous system](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/CNS_PNS.PNG)
+ ![Central nervous system vs Peripheral nervous system](img/CNS_PNS.PNG)
 
 ## 1. What does the CNS is made of and What does it do?
 The **Central Nervous System** is made of the **Brain** and the **Spinal cord**.
@@ -24,6 +24,7 @@ It **mediates** all **sensory** input and **motor** output.
 The brain can be separated in different part. First of all the brain is separated in two distinct hemisphere. These two have the same part called lobes.
 
 #### 1.1.1 Hemisphere
+
 | Left hemisphere            | Right hemisphere       |
 |:-------------------------- |:---------------------- |
 | Analytical though          | Intutive Thought       |
@@ -38,32 +39,35 @@ The brain can be separated in different part. First of all the brain is separate
 | Right field vision         | Left Field Vision      |
 | Right side motor skills    | Left Side Motor Skills |
 
-![Hemisphere](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/BrainHemispheres.jpg)
+![Hemisphere](img/BrainHemispheres.jpg)
 
 #### 1.1.2 Lobes
-| Frontal lobe    | Temporal lobe | Occipital lobe | Parietal lobe |
-|:--------------- |:------------- | -------------- | ------------- | ------------ |
-|Controls executive functions like concentration, thinking, problem solving and judgment; motivation, emotions, Behavior| Controls processing feelings of pain and hunger, fight-or-flight stress response, short-term memory, emotion, understanding words and directions | Controls sight and processing information from the eyes, such as recognizing images | Controls feeling on the opposite side of the body, ability to understand spoken language, and processing sensory information such as texture, temperature, and position in space |
 
-![Lobes](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Brain-lobes-traditional-QBI-sm.jpg)
-![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/LobesCaptsMedial2.png)
+| Frontal lobe  | Temporal lobe   | Occipital lobe  | Parietal lobe      |
+| --- | ---------------- | ------------ | ---------- |
+| Controls executive functions like concentration, thinking, problem solving and judgment; motivation, emotions, Behaviour | Controls processing feelings of pain and hunger, fight-or-flight stress response, short-term memory, emotion, understanding words and directions | Controls sight and processing information from the eyes, such as recognizing images | Controls feeling on the opposite side of the body, ability to understand spoken language, and processing sensory information such as texture, temperature, and position in space |
+
+
+![Lobes](img/Brain-lobes-traditional-QBI-sm.jpg)
+![insular Lobe](img/LobesCaptsMedial2.png)
 
 #### 1.1.3 Subpart
+
 | part          | description |
 |:------------- |:----------- |
-| Cerebelum     | ![cerebellum](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Cerebellum_animation_small.gif) plays an important role in motor control. It may also be involved in some cognitive functions such as attention and language as well as in regulating fear and pleasure responses, but its movement-related functions are the most solidly established. The human cerebellum does not initiate movement, but contributes to coordination, precision, and accurate timing: it receives input from sensory systems of the spinal cord and from other parts of the brain, and integrates these inputs to fine-tune motor activity. Cerebellar damage produces disorders in fine movement, equilibrium, posture, and motor learning in humans. |
-| Broca area    | ![Broca area](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Brocas_area_-_lateral_view.png) Language processing/Speech production        |
-| Wernicke area | ![Wernicke area](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/220px-Wernicke_area_animation.gif)  It is involved in the comprehension of written and spoken language |
-| hypothalamus  |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/250px-Hypothalamus.gif)             |
-|Thalamus       |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Thalamus_small.gif)             |
-| hippocampus   |![insular Lobe](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Hippocampus_Life-Science-Databases_0.jpg)            |
-| Amygdala |
+| Cerebelum     | ![cerebellum](img/Cerebellum_animation_small.gif) plays an important role in **motor control**. It may also be involved in some cognitive functions such as **attention and language** as well as in **regulating fear and pleasure responses**, but its movement-related functions are the most solidly established. The human cerebellum **does not initiate movement**, but **contributes to coordination**, **precision**, and **accurate timing**: it **receives input from sensory systems** of the spinal cord and from other parts of the brain, and **integrates these inputs to fine-tune motor activity**. Cerebellar damage produces disorders in fine movement, equilibrium, posture, and motor learning in humans. |
+| Broca area    | ![Broca area](img/Brocas_area_-_lateral_view.png) Language processing/Speech production        |
+| Wernicke area | ![Wernicke area](img/220px-Wernicke_area_animation.gif)  It is involved in the comprehension of written and spoken language |
+| hypothalamus  |![insular Lobe](img/250px-Hypothalamus.gif)  **Link the nervous system to the endocrine system** via the pituitary gland. Responsible for the regulation of certain metabolic processes and other activities of the autonomic nervous system. It **synthesizes** and **secretes certain neurohormones**, called releasing hormones or hypothalamic hormones, and these in turn stimulate or inhibit the secretion of hormones from the pituitary gland. The hypothalamus **controls body temperature**, **hunger**, important aspects of parenting and **attachment behaviours**, **thirst**, **fatigue**, **sleep**, and **circadian rhythms**.     |
+|Thalamus       |![insular Lobe](img/Thalamus_small.gif) Large mass of gray matter in the dorsal part of the diencephalon of the brain with several functions such as **relaying of sensory signals**, including **motor signals to the cerebral cortex**, and the **regulation of consciousness, sleep, and alertness.**     |
+| hippocampus   |![insular Lobe](img/Hippocampus_Life-Science-Databases_0.jpg)  Major component of the brain of humans and other vertebrates. Humans and other mammals have two hippocampi, one in each side of the brain. The hippocampus is part of the limbic system, and plays important roles in the **consolidation of information** from **short-term memory** to **long-term memory**, and in **spatial memory** that enables navigation. It contains two main interlocking parts: the hippocampus proper (also called Ammon's horn) and the dentate gyrus. |
+| Amygdala | ![Amygdala](img/README-b8bb9166.png) perform a primary role in the **processing of memory**, **decision-making and emotional responses** (including **fear, anxiety, and aggression**) |
 | Sensory strip | |
-| Motor strip   |
-| Corpus callosum |
-|Brain stem /medulla |
-|Pons |
-| Pituitary |
+| Motor strip   ||
+| Corpus callosum ||
+|Brain stem /medulla ||
+|Pons ||
+| Pituitary |  |
 
 
 ### 1.2 Spinal cord
@@ -75,7 +79,7 @@ The **Peripheral nervous system** is made of the Cranial nerves, Spinal nerves, 
 It carries the **sensory information into the CNS** and the **motor information out of the CNS**.
 
 #### 2.1.1 Cranial nerves
-![Central nervous system vs Peripheral nervous system](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/cranial_nerves.PNG)
+![Central nervous system vs Peripheral nervous system](img/cranial_nerves.PNG)
 
 Listed from the most anterior to the most posterior.
 
@@ -94,7 +98,7 @@ Listed from the most anterior to the most posterior.
 | 11     | Spinal accessory  | Motor   |
 | 12     | Hypoglossal       | Motor   |
 
-![Central nervous system vs Peripheral nervous system](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Brain-stem.png)
+![Central nervous system vs Peripheral nervous system](img/Brain-stem.png)
 
 ### 1.2 The spinal cord
 
@@ -125,20 +129,20 @@ The Autonomic Nervous system control your organs Unconsciously. It control your 
 The ANS is made of two component :
 The **Parasympathetic** and the **Sympathetic** nervous system.
 
-![Parasympathetic vs Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Parasympathetic-vs-sympathetic.PNG)
+![Parasympathetic vs Sympathetic](img/Parasympathetic-vs-sympathetic.PNG)
 
 #### Parasympathetic (**PSNS**)
 It is the **Rest and Digest mode**
-![Parasympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Parasympathetic.PNG)
+![Parasympathetic](img/Parasympathetic.PNG)
 
 #### Sympathetic (**SNS**)
 It is the **Fight or Flight mode**.
 
-![Sympathetic](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Sympathetic.PNG)
+![Sympathetic](img/Sympathetic.PNG)
 
 ________________________________
 #### Neurones
-![neuron parts](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/Neuron.jpg)
+![neuron parts](img/Neuron.jpg)
 
 Dendrites
 - Input zone
@@ -230,17 +234,13 @@ How are hormones a regulated?
 | Item One             | Item Two          |                  |
 
 
-
-
-
-
 ### Endocrine glands
 **Endocrine glands** release hormones within the body.
 
 ### Pituitary gland
 The **Pituitary** also called the Master gland, because it **secretes** many **extremely important hormones** and **regulates** the activity of other hormone secreting **glands**.
 
-![pituitary gland](https://raw.githubusercontent.com/BasileBron/Neuroscience-And-Behavior/master/img/pituitary-gland.jpg)
+![pituitary gland](img/pituitary-gland.jpg)
 
 The Pituitary gland is located under the hypothalamus which is logical because the hypothalamus is the "hub" between the sympathetic system and the Endocrine system.
 
@@ -253,7 +253,7 @@ The anterior and posterior pituitary are responsible for the secretion of the fo
 | **(LH) Luteinizing hormone** (testosterone production and reproduction)          |             |
 | **(ACTH) Adrenocorticotropic Hormone** (stress and fear responses)   |             |
 | **(TSH) Thyroid-stimulating hormone** (important to healthy metabolism)  |             |
-| **Prolactin**  (milk production)                   |             |
+| **Prolactin**  (milk production)            |             |
 
 ## Evolution
 
