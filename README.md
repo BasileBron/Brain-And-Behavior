@@ -64,9 +64,9 @@ The brain can be separated in different part. First of all the brain is separate
 | Amygdala | ![Amygdala](img/README-b8bb9166.png) perform a primary role in the **processing of memory**, **decision-making and emotional responses** (including **fear, anxiety, and aggression**) |
 | Sensory strip | |
 | Motor strip   ||
-| Corpus callosum ||
-|Brain stem /medulla ||
-|Pons ||
+| Corpus callosum |![](img/README-92394886.png) Spans part of the longitudinal fissure, **connecting the left and right** cerebral **hemispheres, enabling communication between them**.|
+|Brain stem /medulla | ![](img/README-e7db3370.png) The brainstem includes the **midbrain**, and the **pons** and **medulla** oblongata of the hindbrain. The brainstem **provides** the main **motor and sensory nerve supply** to the **face** and **neck** via the cranial nerves. The brainstem is an extremely important part of the brain as the nerve connections of the motor and sensory systems from the main part of the brain to the rest of the body pass through the brainstem. This includes the corticospinal tract (motor), the dorsal column-medial lemniscus pathway (**fine touch, vibration sensation, and proprioception**), and the spinothalamic tract (**pain, temperature, itch, and crude touch**).The brainstem also plays an important role in the **regulation of cardiac** and **respiratory function**. It also **regulates** the **central nervous system**, and is pivotal in **maintaining consciousness** and **regulating the sleep cycle**. The brainstem has many basic functions including **heart rate, breathing, sleeping, and eating.**|
+|Pons | ![](img/README-7a1ef295.png) The pons (Latin for "bridge") is part of the brainstem. This region of the brainstem includes neural pathways and tracts that **conduct signals from the brain down to the cerebellum** and medulla, and tracts that **carry the sensory signals up into the thalamus**.|
 | Pituitary |  |
 
 
