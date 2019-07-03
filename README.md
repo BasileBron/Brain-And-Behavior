@@ -191,6 +191,9 @@ The two opposing forces that drive ion movement :
 What is making the action potential
 
 ## Neurotransmitter
+At least 100 substances can act as neurotransmitters; here are some of the most important one.
+### Gaba
+
 ### Family and subfamily
 | Family And subfamily | Header Two |
 |:-------------------- |:---------- |
@@ -203,8 +206,8 @@ What is making the action potential
 ## Drugs
 A drug is any substance (other than food that provides nutritional support) that, when inhaled, injected, smoked, consumed, absorbed via a patch on the skin, or dissolved under the tongue causes a physiological (and often psychological) change in the body.
 
-It is important to know that we don't know the exact effect of drugs on the brain.
-i.g we are aware of the main and obvious effect of Marijuana and cocain for example, but these drugs are doing a lot of things that we are not precisely aware yet.
+It is important to know that **we don't know the exact effect of drugs on the brain**.
+**i.g** We are aware of the main and obvious effect of Marijuana and cocaine for example, but these drugs are doing a lot of things that we are not precisely aware yet.
 
 ### Alcohol
 
@@ -275,3 +278,8 @@ What are the major similarities between human and rats?
 Encephalization quotient
 
 ![Encephalization](img/README-5c916320.png)
+
+///////////////////////////////////////////////////
+I skiped a lot of vid, will come back here later
+
+#### Language of the brain
