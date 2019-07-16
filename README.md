@@ -280,6 +280,23 @@ Encephalization quotient
 ![Encephalization](img/README-5c916320.png)
 
 ///////////////////////////////////////////////////
-I skiped a lot of vid, will come back here later
+I skipped a lot of vid, will come back here later
 
 #### Language of the brain
+delayed responses
+delayed non matching to sample task
+
+Language have similar basic element:
+**Phoneme** : basic speech sounds
+**morphemes** : simple unit of meaning such as "un-", "break", and "-able" in the word "unbreakable".
+**semantics** : meanings of word or sentences and more generally The study of the relationship between words and their meanings.
+#### Neurobiology of love
+
+##### What is the role of Oxytocin and Vasopressin in the **female** brain and the **male** brain?
+Oxytocin and Vasopressin have an effect of bounding between you and the partner you are mating with. respectively Oxytocin for female and Vasopressin for male.
+
+Here are some visual explanation:
+
+![](img/README-dcc93279.png)
+![](img/README-4ee3309b.png)
+(Antagonist means that the receptor for the hormone are "blocked").
